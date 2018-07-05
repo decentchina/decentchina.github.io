@@ -22,9 +22,9 @@ decentchina社区秉持区块链精神，发扬去中心化的组织架构优势
 
 Witness Server portfolio
 -	Witness Node - VPS:
-  - 16 GB RAM
-  - 320 GB SSD
-  - 8 CORES
+    - 16 GB RAM
+    - 320 GB SSD
+    - 8 CORES
 - Backup Node - VPS:  
   - 8GB RAM
   - 160 GB SSD
